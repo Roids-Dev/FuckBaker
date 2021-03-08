@@ -1,0 +1,8 @@
+main: me.Roids.FuckBaker.Main
+name: Fuck_Baker
+version: 2.1.0
+author: Roids
+api-version: 1.16
+
+commands:
+  gohome:
